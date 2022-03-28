@@ -1,0 +1,15 @@
+{
+    "domain":"http://localhost:3000",
+    "database":{
+        "server":"",
+        "username":"",
+        "password":"",
+        "dbname":"messenger_01"
+    },
+    "mail":{
+        "server":"smtp.gmail.com",
+        "username":"email_cua_ban",
+        "password":"pw_cua_ban",
+        "port":"465"
+    }
+}
